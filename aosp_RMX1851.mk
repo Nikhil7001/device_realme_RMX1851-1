@@ -13,6 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+TARGET_INCREMENTAL_BLOCK_BASED := true
 
 # Specify arch for gapps
 TARGET_GAPPS_ARCH=arm64
