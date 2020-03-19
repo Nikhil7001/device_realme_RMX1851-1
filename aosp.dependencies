@@ -3,5 +3,11 @@
     "repository": "device_realme_sdm710-common",
     "target_path": "device/realme/sdm710-common",
     "branch": "ten"
-  }
+  },
+  {
+    "repository": "SamarV-121/vendor_realme_firmware_RMX1851",
+    "target_path": "vendor/realme/firmware/RMX1851",
+    "branch": "RMX1851EX_11.C.04",
+    "remote": "gitlab"
+}
 ]

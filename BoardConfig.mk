@@ -22,3 +22,6 @@ TARGET_PREBUILT_KERNEL := device/realme/RMX1851/prebuilt/Image.gz-dtb
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 5578424320
+
+# Releasetools
+TARGET_RELEASETOOLS_EXTENSIONS := device/realme/RMX1851

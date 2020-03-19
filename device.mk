@@ -23,3 +23,7 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 # Input
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/touchpanel.kl:system/usr/keylayout/touchpanel.kl
+
+# Firmware
+$(call inherit-product, vendor/realme/firmware/RMX1851/firmware.mk)
+
