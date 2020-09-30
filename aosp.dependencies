@@ -2,6 +2,6 @@
   {
     "repository": "device_realme_sdm710-common",
     "target_path": "device/realme/sdm710-common",
-    "branch": "wip"
+    "branch": "test"
   }
 ]
